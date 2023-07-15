@@ -78,13 +78,9 @@
 }
 
 
-
-
-
 .two1{border: 1px solid black;
     border-left: 800px;
- 
-    
+   
 
 }
 input{
@@ -94,6 +90,44 @@ input{
     margin-top: 0px;
 
 }
+button{background-color: rgb(15, 246, 7);
+    color: rgb(13, 13, 13);
+    padding: 8px ;
+  
+
+}
+.title{
+    border: 2px solid black;
+    padding: 20px 135px 20px 100px;
+    margin-left: -2px;
+}
+.title2{ border: 2px solid black;
+    padding: 20px 155px 20px 135px;
+    margin-left: -2px;
+
+}
+
+.title3{ border: 2px solid black;
+    padding: 20px 135px 20px 100px;
+    margin-left: -2px;
+
+}
+.title5{ border: 2px solid black;
+    padding: 20px 169px 20px 180px;
+    margin-left: -2px;
+}
+.eg1{ border: 2px solid black;
+    padding: 20px 121px 20px 122px;
+    margin-left: -2px;
 
 
+}
+.eg2{
+    border: 2px solid black;
+    padding: 20px 150px 20px 95px;
+    margin-left: -2px;
+}
+.last{padding-top: 1px;
+
+}
 
