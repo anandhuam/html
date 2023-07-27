@@ -1,0 +1,28 @@
+.col-lg-4{background-color: black;
+    padding: 20px;
+
+}
+.col-lg-5{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+.col-lg-3{background-color: black;
+    padding: 20px;
+
+}
+.a{background-color: rgb(255, 255, 255);
+    padding: 20px;
+
+}
+.b{background-color: black;
+    height: 50px;
+
+}
+.c{background-color: black;
+    height: 120px;
+
+}
+.d{background-color: black;
+    height: 120px;
+
+}
