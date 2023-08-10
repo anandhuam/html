@@ -1,0 +1,29 @@
+.a{
+    font-size:60px;
+    color:black;
+    font-family: 'Roboto Slab', serif;
+}
+
+.b{
+    color: darkgray;
+}
+.c{
+    background-color: chocolate;
+    padding: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: aliceblue;
+    border: none;
+}
+button.c:hover{
+    background-color: rgb(1, 1, 23);
+}
+.a1{
+
+}
+.b1{
+
+}
+.c1{
+    
+}
