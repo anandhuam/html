@@ -1,11 +1,15 @@
 .a{
-    font-size:60px;
+    font-size:52px;
     color:black;
     font-family: 'Roboto Slab', serif;
+    font-weight: 700;
 }
 
 .b{
     color: darkgray;
+    font-size: large;
+    padding: 25px;
+    
 }
 .c{
     background-color: chocolate;
@@ -19,11 +23,66 @@ button.c:hover{
     background-color: rgb(1, 1, 23);
 }
 .a1{
+    font-size: x-large;
+    font-weight: 700;
+    color: chocolate;
+    padding: 15px;
+
+   
 
 }
 .b1{
+    font-size:x-large;
+    font-weight: 700;
+    color: aliceblue;
+    padding: 10px;
+    
 
 }
 .c1{
+    color: rgb(153, 159, 164);
+    padding: 10px;
+    font-size:medium;
+   
     
+}
+.hi{
+    background-color:rgb(2, 2, 29) ;
+    
+}
+.a2{color: aliceblue;
+    font-size: x-large;
+    font-weight: 700;
+    padding: 20px;
+
+}
+.b2{
+    color: rgb(153, 159, 164);
+    padding: 10px;
+    font-size:medium;
+   
+
+}
+.a3{
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: 700;
+    padding: 20px;
+}
+.b3{
+    color: rgb(153, 159, 164);
+    padding: 10px;
+    font-size:medium;
+   
+}
+.a5{
+    font-size: xx-large;
+    font-weight: 800;
+    color: darkgray;
+}
+.b5{font-size: x-large;
+
+}
+.c5{
+    font-size: larger;
 }
