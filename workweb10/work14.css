@@ -1,0 +1,53 @@
+
+.container-fluid{
+  
+  position: fixed;
+  padding-top: 30px;
+  background-color:rgb(170, 165, 155);
+
+
+}
+.s1{
+  border-radius: 50%;
+}
+.author img{
+  width: 60px;
+}
+.s2{
+  border-radius: 50%;
+  
+}
+.f1{
+ border: 1px solid  black;
+  padding: 20px;
+}
+.f3{
+  margin-top: 30px;
+}
+.z1{
+  color: black;
+}
+.p{
+  font-size: x-large;
+  font-weight: 700;
+}
+.an{
+  color: black;
+}
+.a2{
+  border-bottom: 2px;
+  border-color: black;
+}
+.blast{
+  font-size: large;
+  font-weight: 600;
+}
+.y1{
+  font-size: larger ;
+  font-weight:700;
+}
+.e1{
+  font-size: larger ;
+  font-weight:700;
+
+}
